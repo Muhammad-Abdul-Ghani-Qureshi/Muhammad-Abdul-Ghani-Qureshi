@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Abdul-Ghani-Qureshi
+- 👋 Hi, I’m @ag
 - 👀 I’m interested in Web Develpment
 - 🌱 I’m currently learning Backend Operations
 - 💞️ I’m looking to collaborate on projects
